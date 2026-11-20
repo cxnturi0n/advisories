@@ -68,7 +68,7 @@ func (r *Repo) SaveFile(name string, f io.Reader) error {
 
 ## 7. Disclosure Information
 
-**Researcher:** Fabio Cinicolo (cxnturi0n)
-**Researcher Organization**: Argo S.p.A.
-**Vendor**: MicroMDM (Jesse Peterson, Victor Vrantchan - open-source maintainers)
-**Product**: MicroMDM (github.com/micromdm/micromdm)
+- **Researcher:** Fabio Cinicolo (cxnturi0n)
+- **Researcher Organization:** Argo S.p.A.
+- **Vendor:** MicroMDM (Jesse Peterson, Victor Vrantchan - open-source maintainers)
+- **Product:** MicroMDM (github.com/micromdm/micromdm)
