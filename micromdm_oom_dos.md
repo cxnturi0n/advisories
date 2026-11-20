@@ -64,7 +64,7 @@ r.Body = http.MaxBytesReader(w, r.Body, 500 << 20)  // 500 MB for uploads
 
 ## 7. Disclosure Information
 
-**Researcher:** Fabio Cinicolo (cxnturi0n)
-**Researcher Organization**: Argo S.p.A.
-**Vendor**: MicroMDM (Jesse Peterson, Victor Vrantchan - open-source maintainers)
-**Product**: MicroMDM (github.com/micromdm/micromdm)
+- **Researcher:** Fabio Cinicolo (cxnturi0n)
+- **Researcher Organization:** Argo S.p.A.
+- **Vendor:** MicroMDM (Jesse Peterson, Victor Vrantchan - open-source maintainers)
+- **Product:** MicroMDM (github.com/micromdm/micromdm)
